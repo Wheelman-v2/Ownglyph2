@@ -1,4 +1,4 @@
-    var Basic = Basic || {};
+    var LIGHT = LIGHT1-7 || {};
 
     Basic.redirectToLink = function(linkType) {
       var baseUrl = 'https://github.com/Wheelman-v2/Ownglyph2/raw/main';
