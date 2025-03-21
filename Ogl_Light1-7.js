@@ -1,6 +1,6 @@
-    var LIGHT = LIGHT1-7 || {};
+    var Light = Light || {};
 
-    Basic.redirectToLink = function(linkType) {
+    Light.redirectToLink = function(linkType) {
       var baseUrl = 'https://github.com/Wheelman-v2/Ownglyph2/raw/main';
       var specificPaths = {
         '온글잎_0': 'LIGHT1/Files/온글잎_0.zip',
